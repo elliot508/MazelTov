@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Mazel Tov",
+  "short_name": "Mazel Tov",
+  "description": "Community simcha announcements from your neighborhood.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007aff",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
